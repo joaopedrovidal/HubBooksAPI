@@ -1,0 +1,6 @@
+@HubBooksAPI_HostAddress = http://localhost:5115
+
+GET {{HubBooksAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
